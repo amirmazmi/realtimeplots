@@ -7,6 +7,6 @@ Dependencies: PyQt4
 \*** *at time of writing some bug with PyQt5 which requires Python3.6+*
 
 
-
+<br><br><br>
 As a side note, qt designer to create GUI.
   
